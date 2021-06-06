@@ -9,30 +9,36 @@
     width: 100%;
 }
 #login #uname{
-    position: absolute;
-    top: 20%;
+    position: relative;
     left:50%;
     -ms-transform: translateX(-50%);
     transform: translateX(-50%);
     color:#149414;
+    height:3rem;
+    width: 16rem;
+    font-size: 1.6rem;
 }
 
 #login #pword{
-    position: absolute;
-    top: 30%;
+    position: relative;
     left:50%;
     -ms-transform: translateX(-50%);
     transform: translateX(-50%);
     color:#149414;
+    height:3rem;
+    width: 16rem;
+    font-size: 1.6rem;
 }
 
 #login #verify{
-    position: absolute;
-    top: 40%;
+    position: relative;
     left: 50%;
     -ms-transform: translateX(-50%);
     transform: translateX(-50%);
     color:#149414;
+    height:3rem;
+    width: 6rem;
+    font-size: 1.3rem;
 }
 #page{
     position: absolute;
